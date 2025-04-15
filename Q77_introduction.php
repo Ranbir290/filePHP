@@ -1,6 +1,6 @@
 <?php
 $filename = "introduction.txt";
-$content = "My name is Kamal Mittal. I am a web developer specializing in PHP, Python, and MySQL. I enjoy problem-solving and building efficient applications.";
+$content = "My name is Ranbir Sood. I am a web developer specializing in PHP, Python, and MySQL. I enjoy problem-solving and building efficient applications.";
 
 // Create and write to the file
 $file = fopen($filename, "w");
