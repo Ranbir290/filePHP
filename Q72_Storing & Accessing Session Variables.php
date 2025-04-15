@@ -4,8 +4,8 @@
     session_start();
      
     // Storing Session Variables
-    $_SESSION["firstname"] = "Kamal";
-    $_SESSION["lastname"] = "Mittal";
+    $_SESSION["firstname"] = "Ranbir";
+    $_SESSION["lastname"] = "Sood";
     
     
     //Accessing Session Variables
