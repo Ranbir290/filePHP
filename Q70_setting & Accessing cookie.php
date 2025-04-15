@@ -1,7 +1,7 @@
 <?php
 
     // Setting a cookie
-    setcookie("username", "Kaml0402", time()+30*24*60*60);
+    setcookie("username", "Ranbir0402", time()+30*24*60*60);
     
     // Verifying whether a cookie is set or not
     if(isset($_COOKIE["username"])){
@@ -12,6 +12,6 @@
     }
     
     print_r($_COOKIE);
-    echo"<br>This code is executed by KamalMittal!";
+    echo"<br>This code is executed by Ranbir Soood 135!";
 
 ?>
